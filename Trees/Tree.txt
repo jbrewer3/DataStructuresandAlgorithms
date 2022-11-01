@@ -1,0 +1,51 @@
+Every element in a tree is a node
+
+node: each elements is converted to node form
+Root: top most node where tree strucutre begins Has relationship of parent and child
+Parent: 
+Child:
+Leaf node: last element with no child
+sibling: node with same parent node
+edge: 
+levels: root is level 0 and as we add child nodes level increases
+path
+subtrees
+
+Depth: depth of any node can be defined by the number of edges from that node to the root node
+Height: number of edges from that node to the deepest leaf node
+
+Height of a tree is refered to height of the root node
+
+Types of trees
+
+    Types of Binary tree: Full Binary Tree, Complete Binary Tree, Perfect Binary Tree, Balanced BInary Tree, Degenrate binary tree
+
+        Full Binary Tree: every element has either 0 or 2 children
+
+        Comlete Binary Tree: All levels are filled with nodes expect last and must be left aligned
+
+        Perfect Binary Tree: all internal nodes have 2 child and all leaf nodes are same depth or level
+
+        Balanced Binary Tree: Height of the left and right sub trees of every node may differ by at most 1
+
+        Degenrate Binary Tree: every parent can have only one child
+
+        Binary Tree:
+            Each node can have maximum of 2 children nodes.
+            Instead of node having next and prev in doubly linked list tree has left and right
+            leaf node with have none for both left and right
+
+Binary Search Tree: All elements on the left of root/subetree need to be lesser and all elements in right of root should be greater
+
+    Types of BST
+    Balanced BST: if difference of hight among left subtree and right subtree is not greater than 1
+    unbalancer BST: 
+
+
+    Searching: start from root and compare it n >= n root. Eliminate the other half of tree and continue until n = answer
+    Insertion: 
+
+    Adelson-Veksii Landis AVL tree and Red Black trees
+    
+
+

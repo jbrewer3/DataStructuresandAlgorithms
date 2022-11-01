@@ -1,0 +1,14 @@
+Hash Table 
+
+Python Dictonary
+Java Maps
+Jacascript Objects
+Ruby Hashes
+
+
+Search Complexity it O(1)
+
+HashTable: Key : Value pair
+Search:
+Insert:
+Delete

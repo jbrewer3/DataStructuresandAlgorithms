@@ -1,0 +1,16 @@
+Stack = Last in First out lst of elements in order following LIFO
+Queue = First in First out FIFO
+
+Arrays and LinkedList can be used to implement
+
+Stack:
+    pop:Delete the last item
+    peek/top: return the last item top of your stack or last item
+    push: add element to the last position in array or LL
+
+Queue: Good use case for LinkedList
+    deque:
+    enque
+    Peek-Top
+
+    

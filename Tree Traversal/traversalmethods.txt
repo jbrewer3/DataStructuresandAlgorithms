@@ -1,0 +1,9 @@
+Depth First Search: going deep in search on one side till you hit leaf node then trace back and go down another branch to get leaf node
+
+Pre order: first check root then go to left of root . new node is root and continue till you hit leaf node
+In order: left root right
+Post Orderr: left right root
+
+Bredth First Search: Level order searching visit noded on first level of tree then second level and so on
+
+Level Order: 

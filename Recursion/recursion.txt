@@ -1,0 +1,2 @@
+Recursion is a function that calls itself
+When we use recursion we need to remember the base case
